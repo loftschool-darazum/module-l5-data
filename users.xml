@@ -1,0 +1,23 @@
+<root>
+    <users>
+        <user id="1" sub-id="atata">
+            <id>1</id>
+            <name>Vasja</name>
+            <age>35</age>
+        </user>
+        <user id="2">
+            <id>155</id>
+            <name>Petja</name>
+            <age>25</age>
+        </user>
+        <user id="56">
+            <id>166</id>
+            <name>Natasha</name>
+            <age>88</age>
+        </user>
+    </users>
+    <anyElseData>
+        <ololo>123</ololo>
+    </anyElseData>
+    <simple>simple text</simple>
+</root>
